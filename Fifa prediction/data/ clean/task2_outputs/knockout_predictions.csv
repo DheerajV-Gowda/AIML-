@@ -1,0 +1,16 @@
+Round,Match,Winner,Prob_Team1,Prob_Team2
+Round of 16,Argentina vs Uruguay,Uruguay,0.99,0.99
+Round of 16,Brazil vs Ecuador,Brazil,0.99,0.97
+Round of 16,Croatia vs Colombia,Croatia,0.955,0.94
+Round of 16,France vs Spain,Spain,0.935,0.935
+Round of 16,Portugal vs Germany,Portugal,0.935,0.93
+Round of 16,England vs Italy,England,0.93,0.915
+Round of 16,Netherlands vs Costa Rica,Netherlands,0.915,0.9
+Round of 16,Canada vs United States,Canada,0.895,0.845
+Quarterfinals,Uruguay vs Brazil,Brazil,0.99,0.99
+Quarterfinals,Croatia vs Spain,Croatia,0.955,0.935
+Quarterfinals,Portugal vs England,Portugal,0.935,0.93
+Quarterfinals,Netherlands vs Canada,Netherlands,0.915,0.895
+Semifinals,Brazil vs Croatia,Brazil,0.99,0.955
+Semifinals,Portugal vs Netherlands,Portugal,0.935,0.915
+Final,Brazil vs Portugal,Brazil,0.99,0.935
